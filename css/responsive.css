@@ -51,6 +51,7 @@ section{
 	display:inline-block; 
 	width: 44%;
 	} 
+	
   /* 
     - applies to screens larger than 499px (unless specifically overwritten these styles will also apply to screens larger than 999px)
     - add any hover states here
